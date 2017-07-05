@@ -1,0 +1,17 @@
+{
+  "name": "git branching",
+  "authors": [
+    "sunil965clear <sunilkumar192114@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
